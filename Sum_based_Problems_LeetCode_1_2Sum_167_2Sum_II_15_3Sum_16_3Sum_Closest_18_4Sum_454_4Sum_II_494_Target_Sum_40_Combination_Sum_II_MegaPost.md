@@ -332,7 +332,7 @@ NOTE: ___Every higher SUM will have `O(N)` multiplied to the complexity of 2SUM.
 
 * **Space complexity :** `O(N)`.
 
-**[3sum Closest](https://leetcode.com/problems/3sum-closest/)
+**[3sum Closest:](https://leetcode.com/problems/3sum-closest/)**
 
 This is similar to the traditional 3sum problem except that you are trying to
 determine the sum of three numbers that are closest to the `target`.
