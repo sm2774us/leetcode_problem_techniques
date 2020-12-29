@@ -9,10 +9,10 @@
 | [LeetCode - Problem 259 - 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [Solution](./Two_Pointers_Approach/010_LeetCode_P_0259_Three_Sum_Smaller_Solution.py) | ![Medium_Icon](assets/difficulty/medium_problem_type_icon.PNG) | ![array](assets/pattern/array.PNG)![two_pointers](assets/pattern/two_pointers.PNG) | ![3Sum_Companies_Asked](assets/companies/air_bnb.PNG)![3Sum_Companies_Asked](assets/companies/amazon.PNG)![3Sum_Companies_Asked](assets/companies/facebook.PNG)![3Sum_Companies_Asked](assets/companies/linked_in.PNG)![3Sum_Companies_Asked](assets/companies/microsoft.PNG)![3Sum_Companies_Asked](assets/companies/oracle.PNG) |
 | [LeetCode - Problem 923 - 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [Solution](./Two_Pointers_Approach/011_LeetCode_P_0923_Three_Sum_With_Multiplicity_Solution.py) | ![Medium_Icon](assets/difficulty/medium_problem_type_icon.PNG) | ![array](assets/pattern/array.PNG)![two_pointers](assets/pattern/two_pointers.PNG) | ![3Sum_Companies_Asked](assets/companies/air_bnb.PNG)![3Sum_Companies_Asked](assets/companies/amazon.PNG)![3Sum_Companies_Asked](assets/companies/facebook.PNG)![3Sum_Companies_Asked](assets/companies/linked_in.PNG)![3Sum_Companies_Asked](assets/companies/microsoft.PNG)![3Sum_Companies_Asked](assets/companies/oracle.PNG) |
 | [LeetCode - Problem 18 - 4Sum](https://leetcode.com/problems/4sum/) | [Solution](Two_Pointers_Approach/012_LeetCode_P_0018_Four_Sum_Solution.py) | ![Medium_Icon](assets/difficulty/medium_problem_type_icon.PNG) | ![array](assets/pattern/array.PNG)![hash_table](assets/pattern/hash_table.PNG)![two_pointers](assets/pattern/two_pointers.PNG) | ![4Sum_Companies_Asked](assets/companies/air_bnb.PNG)![4Sum_Companies_Asked](assets/companies/amazon.PNG)![4Sum_Companies_Asked](assets/companies/facebook.PNG)![4Sum_Companies_Asked](assets/companies/linked_in.PNG)![4Sum_Companies_Asked](assets/companies/microsoft.PNG)![4Sum_Companies_Asked](assets/companies/oracle.PNG) |
-| [LeetCode - Problem 454 - 4Sum II](https://leetcode.com/problems/4sum-ii/) | [Solution](Two_Pointers_Approach/013_LeetCode_P_0454_Four_Sum_Part_2_Solution.py) | ![Medium_Icon](assets/difficulty/medium_problem_type_icon.PNG) | ![array](assets/pattern/array.PNG)![hash_table](assets/pattern/hash_table.PNG)![binary_search](assets/pattern/binary_search.PNG) | ![4Sum_Companies_Asked](assets/companies/air_bnb.PNG)![4Sum_Companies_Asked](assets/companies/amazon.PNG)![4Sum_Companies_Asked](assets/companies/facebook.PNG)![4Sum_Companies_Asked](assets/companies/linked_in.PNG)![4Sum_Companies_Asked](assets/companies/microsoft.PNG)![4Sum_Companies_Asked](assets/companies/oracle.PNG) |
-| [LeetCode - Problem 40 - Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Solution](Backtracking_Approach/001_LeetCode_P_0040_Combination_Sum_Part_2_Solution.py) | ![Medium_Icon](assets/difficulty/medium_problem_type_icon.PNG) | ![array](assets/pattern/array.PNG)![hash_table](assets/pattern/hash_table.PNG)![binary_search](assets/pattern/binary_search.PNG) | ![4Sum_Companies_Asked](assets/companies/air_bnb.PNG)![4Sum_Companies_Asked](assets/companies/amazon.PNG)![4Sum_Companies_Asked](assets/companies/facebook.PNG)![4Sum_Companies_Asked](assets/companies/linked_in.PNG)![4Sum_Companies_Asked](assets/companies/microsoft.PNG)![4Sum_Companies_Asked](assets/companies/oracle.PNG) |
+| [LeetCode - Problem 454 - 4Sum II](https://leetcode.com/problems/4sum-ii/) | [Solution](Two_Pointers_Approach/013_LeetCode_P_0454_Four_Sum_Part_2_Solution.py) | ![Medium_Icon](assets/difficulty/medium_problem_type_icon.PNG) | ![array](assets/pattern/array.PNG)![hash_table](assets/pattern/hash_table.PNG) | ![4Sum_Companies_Asked](assets/companies/air_bnb.PNG)![4Sum_Companies_Asked](assets/companies/amazon.PNG)![4Sum_Companies_Asked](assets/companies/facebook.PNG)![4Sum_Companies_Asked](assets/companies/linked_in.PNG)![4Sum_Companies_Asked](assets/companies/microsoft.PNG)![4Sum_Companies_Asked](assets/companies/oracle.PNG) |
+| [LeetCode - Problem 40 - Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Solution](Backtracking_Approach/002_LeetCode_P_0040_Combination_Sum_Part_2_Solution.py) | ![Medium_Icon](assets/difficulty/medium_problem_type_icon.PNG) | ![DFS](assets/pattern/DFS.PNG)![backtracking](assets/pattern/backtracking.PNG) | ![Combination_Sum_Companies_Asked](assets/companies/air_bnb.PNG)![Combination_Sum_Companies_Asked](assets/companies/amazon.PNG)![Combination_Sum_Companies_Asked](assets/companies/facebook.PNG)![Combination_Sum_Companies_Asked](assets/companies/linked_in.PNG)![Combination_Sum_Companies_Asked](assets/companies/microsoft.PNG)![Combination_Sum_Companies_Asked](assets/companies/oracle.PNG) |
+| [LeetCode - Problem 373 - Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](Heap/001_LeetCode_P_0373_Find_K_Pairs_with_Smallest_Sums_Solution.py) | ![Medium_Icon](assets/difficulty/medium_problem_type_icon.PNG) | ![heap](assets/pattern/heap.PNG) | ![Find_K_Pairs_Companies_Asked](assets/companies/air_bnb.PNG)![Find_K_Pairs_Companies_Asked](assets/companies/amazon.PNG)![Find_K_Pairs_Companies_Asked](assets/companies/facebook.PNG)![Find_K_Pairs_Companies_Asked](assets/companies/linked_in.PNG)![Find_K_Pairs_Companies_Asked](assets/companies/microsoft.PNG)![Find_K_Pairs_Companies_Asked](assets/companies/oracle.PNG) |
 | [LeetCode - Problem 494 - Target Sum](https://leetcode.com/problems/target-sum/) | [Solution](Dynamic_Programming_Approach/001_LeetCode_P_0494_Target_Sum_Solution.py) | ![Medium_Icon](assets/difficulty/medium_problem_type_icon.PNG) | ![dynamic_programming](assets/pattern/dynamic_programming.PNG)![DFS](assets/pattern/DFS.PNG) | ![4Sum_Companies_Asked](assets/companies/air_bnb.PNG)![4Sum_Companies_Asked](assets/companies/amazon.PNG)![4Sum_Companies_Asked](assets/companies/facebook.PNG)![4Sum_Companies_Asked](assets/companies/linked_in.PNG)![4Sum_Companies_Asked](assets/companies/microsoft.PNG)![4Sum_Companies_Asked](assets/companies/oracle.PNG) |
-| [LeetCode - Problem 373 - Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](Two_Pointers_Approach/013_LeetCode_P_0454_Four_Sum_Part_2_Solution.py) | ![Medium_Icon](assets/difficulty/medium_problem_type_icon.PNG) | ![array](assets/pattern/array.PNG)![hash_table](assets/pattern/hash_table.PNG)![binary_search](assets/pattern/binary_search.PNG) | ![4Sum_Companies_Asked](assets/companies/air_bnb.PNG)![4Sum_Companies_Asked](assets/companies/amazon.PNG)![4Sum_Companies_Asked](assets/companies/facebook.PNG)![4Sum_Companies_Asked](assets/companies/linked_in.PNG)![4Sum_Companies_Asked](assets/companies/microsoft.PNG)![4Sum_Companies_Asked](assets/companies/oracle.PNG) |
 | [LeetCode - Problem 611 - Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Solution](Two_Pointers_Approach/013_LeetCode_P_0454_Four_Sum_Part_2_Solution.py) | ![Medium_Icon](assets/difficulty/medium_problem_type_icon.PNG) | ![array](assets/pattern/array.PNG)![hash_table](assets/pattern/hash_table.PNG)![binary_search](assets/pattern/binary_search.PNG) | ![4Sum_Companies_Asked](assets/companies/air_bnb.PNG)![4Sum_Companies_Asked](assets/companies/amazon.PNG)![4Sum_Companies_Asked](assets/companies/facebook.PNG)![4Sum_Companies_Asked](assets/companies/linked_in.PNG)![4Sum_Companies_Asked](assets/companies/microsoft.PNG)![4Sum_Companies_Asked](assets/companies/oracle.PNG) |
 
 If you're a newbie and sometimes have a hard time understanding the logic. 
@@ -325,10 +325,10 @@ class Solution:
 ```
 
 **Complexity Analysis:**
-Every higher SUM will have `O(N)` multiplied to the complexity of 2SUM.
+
+NOTE: ___Every higher SUM will have `O(N)` multiplied to the complexity of 2SUM.___
 
 * **Time complexity :** `O(N^2)` [ Quadratic Time Complexity ].
-  3Sum = O(N)
 
 * **Space complexity :** `O(N)`.
 
@@ -339,9 +339,6 @@ determine the sum of three numbers that are closest to the `target`.
 
 ```python
 from typing import List
-from math import inf
-
-import unittest
 
 class Solution:
     # Solution : Two-Pointers Technique
@@ -397,8 +394,6 @@ Another way to solve this problem is to change it into a two sum problem, as sho
 from typing import List
 from math import inf
 
-import unittest
-
 class Solution:
     def twoSumClosest(self, nums: List[int], target: int) -> int:
         # assume nums is sorted
@@ -416,18 +411,10 @@ class Solution:
                 j -= 1
         return res + target
 
-    # Solution : Two-Pointers Technique
+    # Solution : Decomposition into 2Sum Problem
     #
     # TC: O(N^2)
     # SC: O(1)
-    #
-    # Follow-up Question: Can we do better than O(N^2) ?
-    # -------------------
-    # Answer            : No there isn't. Proof by contradiction:
-    # -------------------
-    #                     If we had sub-quadratic solution to this problem then we could solve all instances
-    #                     of 3SUM problem with the same complexity (sub-quadratic),
-    #                     but lower bound of 3SUM problem is O(N^2).
     #
     # NOTE:
     # -------------------
@@ -462,13 +449,450 @@ class Solution:
 
 ```
 
+**Complexity Analysis:**
+* **Time complexity :** `O(N^2)` [ Quadratic Time Complexity ].
+
+* **Space complexity :** `O(1)`.
+
 **[3Sum Smaller:](https://leetcode.com/problems/3sum-smaller/)**
+
+This is similar to the traditional 3sum problem except that you are trying to
+determine the number of triplets where the sum of triplets (i.e., the three numbers) 
+is less than the `target`.
+
+```python
+from typing import List
+
+class Solution:
+    # Solution : Two-Pointers Technique
+    #
+    # TC: O(N^2)
+    # SC: O(1)
+    #
+    # NOTE:
+    # -------------------
+    # You can get some improvement by skipping the duplicate value while i++,
+    # it certainly saves time as you don't need to enter the sub-iteration each time.
+    def threeSumSmaller(self, nums: List[int], target: int) -> int:
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        if not nums or len(nums) < 3: return 0
+
+        nums.sort()
+        result = 0
+        for i, num in enumerate(nums):
+            # update: ignore the duplicate numbers
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
+
+            # Now we need to find a combination of two numbers
+            # that combined equal to less than (target-num) in the subscript greater than i
+            t = target - num
+
+            left, right = i + 1, len(nums) - 1
+            while left < right:
+                if nums[left] + nums[right] >= t:
+                    right -= 1  # The sum is too big, try to reduce the sum
+                elif nums[left] + nums[right] < t:
+                    result += right - left  # In this case, left can form a set of answers with any number between [left + 1, right]
+                    left += 1
+
+        return result
+```
+
+Another way to solve this problem is to change it into a two sum problem, as shown below:
+
+**Key observation:** The answer does not change if numbers are swapped. 
+Thus we can sort the numbers first and use the two pointers method.
+
+We count the number of such combinations for each `i`, so that we can reduce 
+the problem to **2Sum smaller**. 
+For **2Sum Smaller**, we initialize two indices, `left` and `right`, 
+pointing to the ___first___ and ___last___ element respectively. 
+* If `nums[left] + nums[right] >= target - nums[i]`, then there 
+are no combinations with `i` and `k = right` (because `j = left` is the smallest), 
+and we need to reduce `right`. 
+* Else, there are `right - left` pair of `(j, k)` when `j = left`, 
+and we can add them to the number of combinations and increment `left`.
+
+
+```python
+from typing import List
+
+class Solution:
+    def twoSumSmaller(self, nums: List[int], target: int) -> int:
+        sums = 0
+        left, right = 0, len(nums) - 1
+        while left < right:
+            if nums[left] + nums[right] < target:
+                sums += right - left
+                left += 1
+            else:
+                right -= 1
+
+        return sums
+
+    # Solution : Decomposition into 2Sum Problem
+    #
+    # TC: O(N^2)
+    # SC: O(1)
+    #
+    # NOTE:
+    # -------------------
+    # You can get some improvement by skipping the duplicate value while i++,
+    # it certainly saves time as you don't need to enter the sub-iteration each time.
+    def threeSumSmaller_decomposed_as_two_sum(self, nums: List[int], target: int) -> int:
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        if not nums or len(nums) < 3: return 0
+
+        sums = 0
+        nums.sort()
+        for i in range(len(nums) - 2):
+            # update: ignore the duplicate numbers
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
+
+            sums += self.twoSumSmaller(nums[i + 1:], target - nums[i])
+
+        return sums
+```
+
+**Complexity Analysis:**
+* **Time complexity :** `O(N^2)` [ Quadratic Time Complexity ].
+
+* **Space complexity :** `O(1)`.
 
 **[3Sum With Multiplicity:](https://leetcode.com/problems/3sum-with-multiplicity/)**
 
+* **Two pointers** technique:
+
+We want to mimic the [LC 15 - 3Sum algorithm](https://leetcode.com/problems/3sum/) in some way, 
+but here we need to consider all triplets together with their multiplicities, 
+so simply using the solution there is incorrect. 
+
+For example, consider `A = [1,2,2,2,2]`, `target = 5`. 
+If we initialize three pointers `i = 0, j = 1, k = 4`. 
+Since `A[0] + A[1] + A[4] == 5`, it is a valid triplet, we increment the counter by `1`. 
+But, then, when we do `j += 1` and `k -= 1`, we missed a lot of the duplicate triplets, so, 
+in total we only count `[1, 2, 2]` twice, whereas, in fact the multiplicity of the triplet: `[1,2,2]` 
+should be `6`. Furthermore, sorting an array with multiplicities could be very inefficient, 
+so, we can first create a counter of the array, and then sort the distinct elements of the array 
+by sorting the keys of the counter.
+
+To address the above problems, we propose the following algorithm:
+
+1. We initialize the result `res = 0`, which counts the total number of valid triplets with multiplicity. 
+   We create a counter `dic` of the array, which maps an element in the array to its number of appearances.
+1. sort `dic` according its keys. Denote by `A` the list of sorted `key, val` pairs in `dic`.
+1. Let `i` be a pointer iterating in `range(len(A))`, and for each iteration, initialize two pointers 
+   `j = i, k = len(A)-1`. Now we search for pairs of indices `k >= j >= i`, such that 
+   `A[j][0] + A[k][0] == target - A[i][0]`. 
+   
+   To do this, while `j <= k`, 
+   * If `A[j][0]+A[k][0] < target - A[i][0]`, we increment `j` by `1`; 
+   * Else if `A[j][0]+A[k][0] > target - A[i][0]`, we decrement `k` by `1`; 
+   * Else when `A[j][0]+A[k][0] == target - A[i][0]`, we count the multiplicity of the triplet `(A[i][0], A[j][0], A[k][0])`, 
+     and increment the total counter `res` by the multiplicity. Finally, after iterating over `i`, we return `res`.
+
+The multiplicity of the triplet `(A[i][0], A[j][0], A[k][0])` depends on if there are duplicate numbers in the triplet. 
+* If all elements are distinct, then the multiplicity is just `A[i][1]*A[j][1]*A[k][1]`, 
+  E.g., if `A = [(1, 2), (2, 4), (3, 3)]` (corresponding to the input list `[1,1,2,2,2,2,3,3,3]`), then the multiplicity 
+  of the triple `(1,2,3)` is `2*4*3 = 24`; 
+* Else if there are two distinct elements in the triplet, assume `A[j][0] == A[k][0]`, then the multiplicity is 
+  `(A[j][1]*(A[j][1]-1) // 2) * A[i][1]`, 
+  E.g., consider the same `A = [(1,2), (2,4), (3,3)]` as in the previous case, the multiplicity of the triple `(1,2,2)` 
+  is `(4*3) // 2 * 2 = 12`, because the number of pairs of `(2,2)` that one can get in 
+  `[2,2,2,2]` is `4` choose `2 = 4*3 // 2 = 6`; 
+* Else if all three numbers in the triple are equal, i.e., `A[i][0] == A[j][0] and A[j][0] == A[k][0]`, 
+  then the multiplicity is `A[i][1]*(A[i][1]-1)*(A[i][1]-2) // 6`, 
+  E.g., consider the same `A = [(1,2), (2,4), (3,3)]` as in the previous case, the multiplicity of the triple `(2,2,2)` 
+  is `4` choose `3 = (4*3*2) // 6 = 4`.
+
+```python
+from typing import List
+import collections
+
+class Solution:
+    # Solution : Two-Pointers Technique
+    #
+    # TC: O(N + M^2)
+    # SC: O(M)
+    #
+    # where: `n` is the length of the input array.
+    #        `m` is the number of distinct elements in the input array.
+    def threeSumMulti(self, A: List[int], target: int) -> int:
+        """
+        :type A: List[int]
+        :type target: int
+        :rtype: int
+        """
+        bound = 1000000007
+        dic = collections.Counter(A)
+        A = sorted(dic.items(), key = lambda x: x[0])
+        res = 0
+        for i in range(len(A)):
+            j = i
+            k = len(A)-1
+            new_target = target - A[i][0]
+            while j <= k:
+                if A[j][0]+A[k][0] < new_target:
+                    j += 1
+                elif A[j][0]+A[k][0] > new_target:
+                    k -= 1
+                else:
+                    if A[i][0] == A[k][0]:
+                        res = (res + A[i][1]*(A[i][1]-1)*(A[i][1]-2) // 6) % bound
+                    elif A[i][0] == A[j][0]:
+                        res = (res + A[k][1]*A[i][1]*(A[i][1]-1)//2) % bound
+                    elif A[j][0] == A[k][0]:
+                        res = (res + A[i][1]*A[j][1]*(A[j][1]-1)//2) % bound
+                    else:
+                        res = (res + A[i][1]*A[j][1]*A[k][1]) % bound
+                    j += 1
+                    k -= 1
+        return res
+```
+
+**Complexity Analysis:**
+
+* **Time complexity :** `O(N + M^2)`.
+
+* **Space complexity :** `O(M)`.
+
+where: 
+
+`n` is the length of the input array, and,
+       
+`m` is the number of distinct elements in the input array.
+
+* **Dynamic Programming** technique:
+
+```python
+from typing import List
+import collections
+
+class Solution:
+    #
+    # DP Solution
+    #
+    # - Let d1 track the count of single elements seen so far
+    # - Let d2 track the count of the sum of any two elements seen so far
+    # - Given a new value n, the number of 3-sums equal to target is d2[target-n]
+    # - update d2, then d1
+    #
+    def threeSumMulti_using_DP(self, A: List[int], target: int) -> int:
+        # https://www.hackerearth.com/practice/notes/abhinav92003/why-output-the-answer-modulo-109-7/
+        # explanation of why a MOD is necessary when computing size of permutation of array which is n!
+        MOD = (10 ** 9) + 7
+
+        # track individual digits and number of occurences
+        single_num_count = collections.defaultdict(int)
+
+        # track sum of two numbers and numbers of occurences
+        pair_sum_count = collections.defaultdict(int)
+        output = 0
+
+        for i in range(len(A)):
+            curr_num = A[i]
+
+            # add complements(pair) to output
+            output += pair_sum_count[target - curr_num]
+
+            # see note above for MOD
+            output %= MOD
+
+            # skips first iteration since no pairs yet
+            for single_num, count in single_num_count.items():
+                # add seen pair and number of occurrences
+                pair_sum_count[curr_num + single_num] += count
+
+            single_num_count[curr_num] += 1
+
+        return output
+```
+
+* Using python reduce technique (**___operator.mult___** and **___math.comb___**):
+
+```python
+from typing import List
+import collections
+import itertools
+import operator
+import math
+
+class Solution:
+
+    def threeSumMulti(self, A: List[int], target: int) -> int:
+        mod = 10 ** 9 + 7
+        c = collections.Counter(A)
+        A = sorted(c.keys())
+        ans = 0
+        for k in range(len(A) - 1, -1, -1):
+            for j in range(k, -1, -1):
+                if (Ai := target - A[k] - A[j]) >= 0 and Ai in c and Ai <= A[j] <= A[k]:
+                    cc = collections.Counter((Ai, A[j], A[k]))
+                    ans += itertools.reduce(operator.mul, (math.comb(c[n], v) for n, v in cc.items())) % mod
+        return ans % mod
+```
+
+* Using python built-in **___itertools.combinations_with_replacement()___**:
+
+Count the occurrence of each number.
+Using hashmap or array up to you.
+
+* Loop i on all numbers,
+* loop j on all numbers,
+* check if k = target - i - j is valid.
+
+Add the number of this combination to result.
+
+3 cases covers all possible combination:
+
+* i == j == k
+* i == j != k
+* i < k && j < k
+
+**Time Complexity:**
+* 3 <= A.length <= 3000, so N = 3000
+
+* But 0 <= A[i] <= 100
+
+So my solution is `O(N + 101 * 101)`.
+
+```python
+from typing import List
+import collections
+import itertools
+
+class Solution:
+    # TC: O(N + 101*101)
+    def threeSumMulti(self, A: List[int], target: int) -> int:
+        c = collections.Counter(A)
+        res = 0
+        for i, j in itertools.combinations_with_replacement(c, 2):
+            k = target - i - j
+            if i == j == k: res += c[i] * (c[i] - 1) * (c[i] - 2) / 6
+            elif i == j != k: res += c[i] * (c[i] - 1) / 2 * c[k]
+            elif k > i and k > j: res += c[i] * c[j] * c[k]
+        return res % (10**9 + 7)
+
+```
+
+**Complexity Analysis:**
+* **Time complexity :** `O(N + 101^2)`.
+
 **[4sum:](https://leetcode.com/problems/4sum/)**
 
+You should have gotten the idea, and what you've seen so far can be generalized to `nSum`. 
+Here, I write the generic code using the same ideas as before. 
+What I'll do is to break down each case to a `2Sum II` problem, 
+and solve them recursively using the approach in `2Sum II` example above.
+
+```python
+from typing import List
+
+class Solution:
+    # Solution 2 : Decomposition into 2Sum problem ( Recursive )
+    #
+    # TC: O(N^3)
+    #
+    def fourSum_recursive_solution(self, nums: List[int], target: int) -> List[List[int]]:
+        def findNsum(nums, target, N, cur):
+            if len(nums) < N or N < 2 or nums[0] * N > target or nums[-1] * N < target:  # if minimum possible sum (every element is first element) > target
+                return  # or maximum possible sum (every element is first element) < target, it's impossible to get target anyway
+            if N == 2:  # 2-sum problem
+                left, right = 0, len(nums) - 1
+                while left < right:
+                    s = nums[left] + nums[right]
+                    if s == target:
+                        res.append(cur + [nums[left], nums[right]])
+                        while left < right and nums[left] == nums[left - 1]:
+                            left += 1
+                        while left < right and nums[right] == nums[right - 1]:
+                            right -= 1
+                        left += 1
+                        right -= 1
+                    elif s < target:
+                        left += 1
+                    else:
+                        right -= 1
+            else:  # reduce to N-1 sum problem
+                for i in range(len(nums) - N + 1):
+                    if i == 0 or nums[i - 1] != nums[i]:
+                        findNsum(nums[i + 1:], target - nums[i], N - 1, cur + [nums[i]])
+
+        res = []
+        findNsum(sorted(nums), target, 4, [])
+        return res
+```
+
+**Note:** In general, Complexity of `2`-sum is `O(N)`, `3`-sum is `O(N^2)`, `4`-sum would be `O(N^3)` 
+.... `k`-sum would be `O(N^k-1)`.
+
+**Complexity Analysis:**
+* **Time complexity :** `O(N^3)`.
+
 **[4Sum II:](https://leetcode.com/problems/4sum-ii/)**
+
+
+```python
+from typing import List
+import collections
+
+import unittest
+
+class Solution:
+    # Solution 1 : Hash table solution
+    #
+    # TC: O(N^2)
+    #
+    def fourSumCount(self, A: List[int], B: List[int], C: List[int], D: List[int]) -> int:
+        """
+        :type A: List[int]
+        :type B: List[int]
+        :type C: List[int]
+        :type D: List[int]
+        :rtype: int
+        """
+        hashmap = collections.defaultdict(int)
+        for a in A:
+            for b in B:
+                hashmap[a + b] += 1
+        count = 0
+        for c in C:
+            for d in D:
+                count += hashmap[-c - d]
+        return count
+```
+Instead of using a usual dictionary to store 2-sums and their counts we can use standard `Counter` class that 
+does that automatically and write solution in the most `pythonic` way possible:
+
+```python
+from typing import List
+import collections
+
+class Solution:
+    def fourSumCount_two_liner(self, A: List[int], B: List[int], C: List[int], D: List[int]) -> int:
+        """
+        :type A: List[int]
+        :type B: List[int]
+        :type C: List[int]
+        :type D: List[int]
+        :rtype: int
+        """
+        sums = collections.Counter(c + d for c in C for d in D)
+        return sum(sums.get(-(a + b), 0) for a in A for b in B)
+```
+
+**Complexity Analysis:**
+* **Time complexity :** `O(N^2)`.
 
 **[k-Sum:](https://cs.stackexchange.com/questions/2973/generalised-3sum-k-sum-problem)**
 
@@ -492,5 +916,337 @@ For more details, see:
 
 **Source:** https://cs.stackexchange.com/questions/2973/generalised-3sum-k-sum-problem
 
+```python
+from typing import List
+
+class Solution:
+    # Solution 2 : Decomposition into 2Sum problem ( Recursive )
+    #
+    # TC: O(N^3)
+    #
+    def kSum_recursive_solution(self, nums: List[int], k: int, target: int) -> List[List[int]]:
+        def findNsum(nums, target, N, cur):
+            if len(nums) < N or N < 2 or nums[0] * N > target or nums[-1] * N < target:  # if minimum possible sum (every element is first element) > target
+                return  # or maximum possible sum (every element is first element) < target, it's impossible to get target anyway
+            if N == 2:  # 2-sum problem
+                left, right = 0, len(nums) - 1
+                while left < right:
+                    s = nums[left] + nums[right]
+                    if s == target:
+                        res.append(cur + [nums[left], nums[right]])
+                        while left < right and nums[left] == nums[left - 1]:
+                            left += 1
+                        while left < right and nums[right] == nums[right - 1]:
+                            right -= 1
+                        left += 1
+                        right -= 1
+                    elif s < target:
+                        left += 1
+                    else:
+                        right -= 1
+            else:  # reduce to N-1 sum problem
+                for i in range(len(nums) - N + 1):
+                    if i == 0 or nums[i - 1] != nums[i]:
+                        findNsum(nums[i + 1:], target - nums[i], N - 1, cur + [nums[i]])
+
+        res = []
+        findNsum(sorted(nums), target, k, [])
+        return res
+```
+
 **[Combination Sum II:](https://leetcode.com/problems/combination-sum-ii/)**
+
+Combination questions can be solved with `dfs` most of the time. 
+If you want to fully understand this concept and `backtracking`, 
+try to finish [this post](https://leetcode.com/problems/combination-sum/discuss/429538/General-Backtracking-questions-solutions-in-Python-for-reference-%3A) and do all the examples.
+
+Read my older post first [here](https://leetcode.com/problems/combination-sum/discuss/16510/Python-dfs-solution.)
+and then read [here](https://leetcode.com/problems/combination-sum-ii/discuss/17020/Python-easy-to-understand-backtracking-solution). 
+This should give you a better idea of what's going on. The solution here also follow the exact same format except for some minor changes. 
+
+```python
+from typing import List
+
+class Solution:
+    # Solution 1 : Backtracking solution
+    #
+    # TC: O(K*log(K))
+    #
+    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
+        res = []
+        candidates.sort()
+
+        def dfs(curr, idx):
+            if sum(curr) > target:
+                return
+            if sum(curr) == target:
+                res.append(curr)
+                return
+
+            for i in range(idx, len(candidates)):
+                if i > idx and candidates[i] == candidates[i - 1]:
+                    continue
+
+                dfs(curr + [candidates[i]], i + 1)
+
+        dfs([], 0)
+
+        return res
+```
+
+Compare the above wth the **[LC 39 - Combination Sum](https://leetcode.com/problems/combination-sum-ii/)** 
+solution:
+
+```python
+from typing import List
+
+import unittest
+
+class Solution:
+    # Solution 1 : Backtracking solution
+    #
+    # TC: O(K*log(K))
+    #
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        res = []
+        candidates.sort()
+
+        def dfs(left, path, idx):
+            if not left:
+                res.append(path[:])
+            else:
+                for i, val in enumerate(candidates[idx:]):
+                    if val > left: break
+                    dfs(left - val, path + [val], idx + i)
+
+        dfs(target, [], 0)
+        return res
+```
+
+**[Find K Pairs with Smallest Sums:](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)**
+
+I'd like to share this elegant design with heap with you guys, 
+which was originally conceived of by someone else.
+
+Consider two input arrays:
+```
+nums1=[a1,a2,a3]
+nums2=[b1,b2,b3]
+```
+
+and let's say `k=3`
+
+We know the brute force way to do it is to calculate: 
+`(a1, b1), (a1, b2), (a1,b3)....(a3,b3)'s` sum respectively 
+and sort the sums, and pick the top 3 of them. This algorithm is `O(n^2)`. 
+And, we need an algorithm better than that.
+
+So, the overall idea of the algorithm:
+1. Maintain a `min-heap` to keep only part of the whole set of combinations of all elements from `nums1` and `nums2`. 
+   That way, we can avoid the brute force way which is `O(n^2)`.
+1. We only push necessary pairs into the heap, until we find all of the `k` pairs.
+
+How we achieve that (for the sake of explanation, ignore the corner cases for now):
+1. create a heap, then push `(S0, N1, N2)` into the `heap`, where `N1` is the position of first element in `nums1`, 
+   `N2` is the position of first element in `nums2`, `S0` is the sum of `N1` and `N2`. 
+   Mark `(N1,N2)` as visited.
+1. Pop the root element `(S0,N1,N2)` out of the heap, add `(N1,N2)` to the result to be returned, and, 
+   immediately push `(S1, N1+1, N2)` and `(S2, N1, N2+1)` into the heap, where, 
+   `S1 = nums1[N1+1]+nums2[N2]`, `S2 = nums1[N1] + nums2[N2+1]`. 
+   Here, if a pair `(Nx, Ny)` has already been visited, we'll ignore it 
+   and not push it to the heap.
+1. Repeat this, until all `k` pairs have been added into the return list. Return the list.
+
+The complexity of this algorithm is `O(k*log(k))` if `k<n`, because 
+we repeat `k` times, and each time we do a `O(log(k))` heappush.
+
+**Why does this algorithm work?** 
+---------------------------------
+
+The real question is, in this algorithm, how do we know that the sum of 
+the pair that got heap-popped earlier is always smaller than the sum of any pair 
+that got heap-pushed later. 
+
+**Why are we so sure about that?**
+
+Because, look at the process:
+
+We `heappop` the minimal pair `(S0, N1, N2)`, then immediately `heappush` two larger 
+pairs `(S1, N1+1,N2)` and `(S2, N1, N2+1)`. (why `S1` and `S2` always larger than `S0`? 
+Because the two arrays are sorted.) And, right after the `heappush`, 
+the `heap` gets re-heaped, and of course the root at this point is larger 
+(at least equal) than `(S0, N1, N2)`. Remember though, the root now maybe 
+`(S1, N1+1, N2)` or `(S2, N1, N2+1)` or any other pair that already exists 
+in the heap after that `heappop` operation. 
+This process gets repeated over and over again until finished.
+
+From this, we can conclude that, the pairs that get
+`heappushed` is always larger than the pairs that get `heappopped` earlier. 
+It might be smaller than other pairs that are currently in the `heap`, 
+but we don’t care about that. We only care about pairs that got `pushed` 
+or `popped`.
+
+The beauty of this algorithm is, it works perfectly under the fact: 
+* two array are sorted. 
+* If the arrays were to be unsorted, 
+  we would not be able to guarantee that the two pairs get `heappushed` 
+  are always larger than the pair that gets `heappopped`, thus it would 
+  be possible that a pair that gets `heappopped` later is larger 
+  than one gets `heappopped` ealier, which would fail to produce the 
+  correct answer.
+
+```python
+from typing import List
+import heapq
+
+class Solution:
+    # Solution 1 : Python heap solution
+    #
+    # TC: O(K*log(K))
+    #
+    def kSmallestPairs(self, nums1: List[int], nums2: List[int], k: int) -> List[List[int]]:
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :type k: int
+        :rtype: List[List[int]]
+        """
+        res = []
+        if not nums1 or not nums2 or not k:
+            return res
+
+        heap = []
+        visited = {}
+
+        heapq.heappush(heap, (nums1[0] + nums2[0], 0, 0))
+
+        while len(res) < k and heap:
+            _, i, j = heapq.heappop(heap)
+            res.append([nums1[i], nums2[j]])
+
+            if i + 1 < len(nums1) and (i + 1, j) not in visited:
+                heapq.heappush(heap, (nums1[i + 1] + nums2[j], i + 1, j))
+                visited[(i+1, j)] = 1
+
+            if j + 1 < len(nums2) and (i, j + 1) not in visited:
+                heapq.heappush(heap, (nums1[i] + nums2[j + 1], i, j + 1))
+                visited[(i, j+1)] = 1
+        return res
+```
+**Complexity Analysis:**
+* **Time complexity :** `O(K*log(K))`.
+
+
 **[Target Sum:](https://leetcode.com/problems/target-sum/)**
+
+* **Top-Down DP:**
+```python
+from typing import List
+
+import unittest
+
+class Solution:
+    # Solution 1: DP top-down
+    def findTargetSumWays(self, nums: List[int], S: int) -> int:
+        index = len(nums) - 1
+        curr_sum = 0
+        return self.dp(nums, S, index, curr_sum)
+
+    def dp(self, nums: List[int], target: int, index: int, curr_sum: int) -> int:
+        # Base Cases
+        if index < 0 and curr_sum == target:
+            return 1
+        if index < 0:
+            return 0
+
+        # Decisions
+        positive = self.dp(nums, target, index - 1, curr_sum + nums[index])
+        negative = self.dp(nums, target, index - 1, curr_sum + -nums[index])
+
+        return positive + negative
+```
+
+* **Top-Down DP w/ Memoization:**
+
+```python
+from typing import List
+
+import unittest
+
+class Solution:
+    # Solution 2: DP top-down w/ memoization
+    def findTargetSumWays(self, nums: List[int], S: int) -> int:
+        index = len(nums) - 1
+        curr_sum = 0
+        self.memo = {}
+        return self.dp(nums, S, index, curr_sum)
+
+    def dp(self, nums: List[int], target: int, index: int, curr_sum: int) -> int:
+        if (index, curr_sum) in self.memo:
+            return self.memo[(index, curr_sum)]
+
+        if index < 0 and curr_sum == target:
+            return 1
+        if index < 0:
+            return 0
+
+        positive = self.dp(nums, target, index - 1, curr_sum + nums[index])
+        negative = self.dp(nums, target, index - 1, curr_sum + -nums[index])
+
+        self.memo[(index, curr_sum)] = positive + negative
+        return self.memo[(index, curr_sum)]
+```
+
+**[Valid Triangle Number:](https://leetcode.com/problems/valid-triangle-number/)**
+
+* **3Sum - Two Pointers Approach:**
+  
+  Solution is similar to the 3Sum approach above:
+
+```python
+from typing import List
+
+class Solution:
+    # Solution 1 : 3Sum based approach ( uses Two Pointers Technique )
+    #
+    def triangleNumber(self, nums: List[int]) -> int:
+        def two_sum_greater_than(nums, target_idx):
+            target, low, high = nums[target_idx], target_idx + 1, len(nums) - 1
+            count = 0
+            while low < high:
+                if nums[low] + nums[high] > target:
+                    count += (high - low)
+                    low += 1
+                else:
+                    high -= 1
+            return count
+
+        nums.sort(reverse=True)
+        return sum(two_sum_greater_than(nums, i) for i in range(len(nums) - 2))
+```
+
+* **Backtracking approach:**
+
+```python
+from typing import List
+
+class Solution:
+    # Solution 2 : Backtracking based approach - Less efficient
+    #
+    def triangleNumber(self, nums: List[int]) -> int:
+        def is_valid_triange(a, b, c):
+            return (a < b + c) and (b < a + c) and (c < a + b)
+
+        def helper(nums, i, partial_set):
+            if len(partial_set) == 3:
+                if is_valid_triange(*partial_set[:]):
+                    self.valid_count += 1
+                return
+
+            for j in range(i, len(nums)):
+                helper(nums, j + 1, partial_set + [nums[j]])
+
+        self.valid_count = 0
+        helper(nums, 0, [])
+        return self.valid_count
+```

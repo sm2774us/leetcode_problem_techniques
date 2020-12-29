@@ -1,4 +1,4 @@
-# LeetCode - Problem 16 - Three Sum Closest (https://leetcode.com/problems/3sum-closest/)
+# LeetCode - Problem 16 - 3Sum Closest (https://leetcode.com/problems/3sum-closest/)
 #
 from typing import List
 from math import inf
@@ -29,7 +29,7 @@ class Solution:
         :type target: int
         :rtype: int
         """
-        if not nums or len(nums) < 3: return
+        if not nums or len(nums) < 3: return 0
 
         nums.sort()
         result = nums[0] + nums[1] + nums[2]
@@ -68,13 +68,22 @@ class Solution:
                 j -= 1
         return res + target
 
+    # Solution : Decomposition into 2Sum Problem
+    #
+    # TC: O(N^2)
+    # SC: O(1)
+    #
+    # NOTE:
+    # -------------------
+    # You can get some improvement by skipping the duplicate value while i++,
+    # it certainly saves time as you don't need to enter the sub-iteration each time.
     def threeSumClosest_decomposed_as_two_sum(self, nums: List[int], target: int) -> int:
         """
         :type nums: List[int]
         :type target: int
         :rtype: int
         """
-        if not nums or len(nums) < 3: return
+        if not nums or len(nums) < 3: return 0
 
         nums.sort()
         n = len(nums)

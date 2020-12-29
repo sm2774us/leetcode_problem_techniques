@@ -1,55 +1,88 @@
-# LeetCode - Problem 16 - Three Sum Closest (https://leetcode.com/problems/3sum-closest/)
+# LeetCode - Problem 18 - 4Sum (https://leetcode.com/problems/4sum/)
 #
 from typing import List
-from math import inf
 
 import unittest
 
 class Solution:
-    # Solution : Two-Pointers Technique
+    # Solution 1 : Iterative Solution
     #
-    # TC: O(N^2)
-    # SC: O(1)
+    # TC: O(N^3)
     #
-    # Follow-up Question: Can we do better than O(N^2) ?
-    # -------------------
-    # Answer            : No there isn't. Proof by contradiction:
-    # -------------------
-    #                     If we had sub-quadratic solution to this problem then we could solve all instances
-    #                     of 3SUM problem with the same complexity (sub-quadratic),
-    #                     but lower bound of 3SUM problem is O(N^2).
-    #
-    # NOTE:
-    # -------------------
-    # You can get some improvement by skipping the duplicate value while i++,
-    # it certainly saves time as you don't need to enter the sub-iteration each time.
-    def threeSumClosest(self, nums: List[int], target: int) -> int:
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: int
-        """
-        if len(nums) < 3: return
+    def fourSum_iterative_solution(self, nums: List[int], target: int) -> List[List[int]]:
         nums.sort()
-        result = nums[0] + nums[1] + nums[2]
-        for i in range(len(nums) - 2):
-
-            # update: ignore the duplicate numbers
-            if i > 0 and nums[i] == nums[i - 1]:
+        i = 0
+        L = len(nums)
+        res = []
+        while i < L - 3:
+            if target - nums[i] < 3 * nums[i + 1] or target - nums[i] > 3 * nums[-1]:   # key judgement
+                while i < L - 4 and nums[i] == nums[i + 1]:
+                    i += 1
+                i += 1
                 continue
+            j = i + 1
+            while j < L - 2:
+                if target - nums[i] - nums[j] < 2 * nums[j + 1] or target - nums[i] - nums[j] > 2 * nums[-1]: # key judgement
+                    while j < L - 3 and nums[j] == nums[j + 1]:
+                        j += 1
+                    j += 1
+                    continue
+                left = j + 1
+                right = L - 1
+                new_target = target - nums[i] - nums[j]
+                while left < right:
+                    if nums[left] + nums[right] > new_target:
+                        right -= 1
+                    elif nums[left] + nums[right] < new_target:
+                        left += 1
+                    else:
+                        res.append([nums[i], nums[j], nums[left], nums[right]])
+                        temp_left = nums[left]
+                        temp_right = nums[right]
+                        while (left < right and nums[left] == temp_left):
+                            left += 1
+                        while (left < right and nums[right] == temp_right):
+                            right -= 1
+                while j < L - 3 and nums[j] == nums[j + 1]:
+                    j += 1
+                j += 1
+            while i < L - 4 and nums[i] == nums[i + 1]:
+                i += 1
+            i += 1
+        return res
 
-            left, right = i + 1, len(nums) - 1
-            while left < right:
-                curSum = nums[left] + nums[right] + nums[i]
-                if curSum == target:
-                    return target
-                if abs(curSum - target) < abs(result - target):
-                    result = curSum
-                if curSum < target:
-                    left += 1
-                else:
-                    right -= 1
-        return result
+    # Solution 2 : Decomposition into 2Sum problem ( Recursive )
+    #
+    # TC: O(N^3)
+    #
+    def fourSum_recursive_solution(self, nums: List[int], target: int) -> List[List[int]]:
+        def findNsum(nums, target, N, cur):
+            if len(nums) < N or N < 2 or nums[0] * N > target or nums[-1] * N < target:  # if minimum possible sum (every element is first element) > target
+                return  # or maximum possible sum (every element is first element) < target, it's impossible to get target anyway
+            if N == 2:  # 2-sum problem
+                left, right = 0, len(nums) - 1
+                while left < right:
+                    s = nums[left] + nums[right]
+                    if s == target:
+                        res.append(cur + [nums[left], nums[right]])
+                        while left < right and nums[left] == nums[left - 1]:
+                            left += 1
+                        while left < right and nums[right] == nums[right - 1]:
+                            right -= 1
+                        left += 1
+                        right -= 1
+                    elif s < target:
+                        left += 1
+                    else:
+                        right -= 1
+            else:  # reduce to N-1 sum problem
+                for i in range(len(nums) - N + 1):
+                    if i == 0 or nums[i - 1] != nums[i]:
+                        findNsum(nums[i + 1:], target - nums[i], N - 1, cur + [nums[i]])
+
+        res = []
+        findNsum(sorted(nums), target, 4, [])
+        return res
 
 
 class Test(unittest.TestCase):
@@ -59,13 +92,14 @@ class Test(unittest.TestCase):
     def tearDown(self) -> None:
         pass
 
-    def test_threeSumClosest(self) -> None:
+    def test_fourSum(self) -> None:
         sol = Solution()
         for nums, target, solution in (
-            [[-1,2,1,-4], 1, 2],            # The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
-            [[-1,8,3,-2], 4, 5]
+            [[1,0,-1,0,-2,2], 0, [[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]],
+            [[], 0, []]
         ):
-            self.assertEqual(solution, sol.threeSumClosest(nums, target))
+            self.assertEqual(solution, sol.fourSum_iterative_solution(nums, target))
+            self.assertEqual(solution, sol.fourSum_recursive_solution(nums, target))
 
 if __name__ == "__main__":
     unittest.main()

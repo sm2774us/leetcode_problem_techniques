@@ -18,7 +18,8 @@ def all_files_in(root_dir, pattern):
     matches = []
 
     for root, dirnames, filenames in os.walk(root_dir):
-        for filename in fnmatch.filter(filenames, pattern):
+        dirnames.sort()
+        for filename in fnmatch.filter(sorted(filenames), pattern):
             matches.append(os.path.join(root, filename))
 
     return matches

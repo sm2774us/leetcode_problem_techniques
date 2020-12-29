@@ -1,4 +1,4 @@
-# LeetCode - Problem 15 - Three Sum (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+# LeetCode - Problem 15 - 3Sum (https://leetcode.com/problems/3sum/)
 #
 from typing import List
 from typing import Set

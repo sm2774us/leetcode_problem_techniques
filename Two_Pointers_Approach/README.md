@@ -71,13 +71,13 @@ Which approach do you think is less likely to introduce bugs?
 
 #### **Classic problems that can be solved using this technique:**
 
-1. [LeetCode - Problem 1 - Two Sum](https://leetcode.com/problems/two-sum/)
-1. [LeetCode - Problem 167 - Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-1. [LeetCode - Problem 3 - Longest Substring Without Repeated Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-1. [LeetCode - Problem 11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/).
-1. [LeetCode - Problem 15 - 3Sum]
-1. [LeetCode - Problem 16 - 3Sum Closest]
-1. [LeetCode - Problem 18 - 4Sum]
+1. [LeetCode - Problem 1 - Two Sum](https://leetcode.com/problems/two-sum/); [Solution](001_LeetCode_P_0001_Two_Sum_Solution.py)
+1. [LeetCode - Problem 167 - Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/); [Solution](003_LeetCode_P_0167_Two_Sum_Part_2_Input_Array_is_Sorted_Solution.py)
+1. [LeetCode - Problem 3 - Longest Substring Without Repeated Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/); [Solution](006_LeetCode_P_0003_Longest_Substring_Without_Repeating_Characters_Solution.py)
+1. [LeetCode - Problem 11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/); [Solution](007_LeetCode_P_0011_Container_With_Most_Water_Solution.py)
+1. [LeetCode - Problem 15 - 3Sum](https://leetcode.com/problems/3sum/); [Solution](008_LeetCode_P_0015_Three_Sum_Solution.py)
+1. [LeetCode - Problem 16 - 3Sum Closest](https://leetcode.com/problems/3sum-closest/);  [Solution](009_LeetCode_P_0016_Three_Sum_Closest_Solution.py)
+1. [LeetCode - Problem 18 - 4Sum](https://leetcode.com/problems/4sum/); [Solution](012_LeetCode_P_0018_Four_Sum_Solution.py)
 1. [LeetCode - Problem 19 - Remove Nth Node From End of List]
 1. [LeetCode - Problem 26 - Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/).
 1. [LeetCode - Problem 27 - Remove Element]
@@ -96,7 +96,7 @@ Which approach do you think is less likely to introduce bugs?
 1. [LeetCode - Problem 167 - Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/).
 1. [LeetCode - Problem 186 - Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/).
 1. [LeetCode - Problem 189 - Rotate Array](https://leetcode.com/problems/rotate-array/).
-1. [LeetCode - Problem 209 - Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+1. [LeetCode - Problem 209 - Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/); [Solution](005_LeetCode_P_0209_Minimum_Size_Subarray_Sum_Solution.py)
 1. [LeetCode - Problem 234 - Palindrom Linked List]
 1. [LeetCode - Problem 238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/).
 1. [LeetCode - Problem 259 - 3Sum Smaller]
@@ -114,6 +114,7 @@ Which approach do you think is less likely to introduce bugs?
 1. [LeetCode - Problem 524 - Longest Word in Dictionary through Deleting]
 1. [LeetCode - Problem 532 - K-diff Pairs in an Array]
 1. [LeetCode - Problem 567 - Permutation in String]
+1. [LeetCode - Problem 611 - Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/); [Solution](Two_Pointers_Approach/014_LeetCode_P_0611_Valid_Triangle_Number_Solution.py)
 1. [LeetCode - Problem 632 - Smallest Range Covering Elements from K Lists]
 1. [LeetCode - Problem 713 - Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 1. [LeetCode - Problem 763 - Partition Labels]
